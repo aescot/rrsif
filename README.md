@@ -1,2 +1,0 @@
-# rrsif
-RRSIF adaptation
